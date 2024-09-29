@@ -1,1 +1,0 @@
-# WACV GeoCV Workshop
